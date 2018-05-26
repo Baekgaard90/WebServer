@@ -4,7 +4,7 @@ sudo apt-get update && sudo apt-get -y upgrade
 # Installing pip (needs above step)
 sudo apt-get install python-pip
 
-# Updating pip
+# Updating pip (FOR SOME REASON THIS STEP MAKES PIP BREAK!)
 pip install --upgrade pip
 
 # Install Flask
