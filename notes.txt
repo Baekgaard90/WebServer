@@ -17,7 +17,6 @@ sudo apt-get install apache2
 git clone https://github.com/Baekgaard90/WebServer
 
 
-
 # Useful links:
 https://www.digitalocean.com/community/tutorials/how-to-configure-the-apache-web-server-on-an-ubuntu-or-debian-vps
 https://help.ubuntu.com/lts/serverguide/httpd.html
@@ -25,5 +24,6 @@ http://flask.pocoo.org/docs/1.0/deploying/mod_wsgi/
 
 http://flask.pocoo.org/docs/1.0/quickstart/#a-minimal-application
 
-
+# About virtual environments. This seem to make everything so much easier.
 http://modwsgi.readthedocs.io/en/develop/user-guides/virtual-environments.html
+https://docs.python.org/3/tutorial/venv.html
