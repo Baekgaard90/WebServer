@@ -24,3 +24,6 @@ https://help.ubuntu.com/lts/serverguide/httpd.html
 http://flask.pocoo.org/docs/1.0/deploying/mod_wsgi/
 
 http://flask.pocoo.org/docs/1.0/quickstart/#a-minimal-application
+
+
+http://modwsgi.readthedocs.io/en/develop/user-guides/virtual-environments.html
